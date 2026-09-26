@@ -48,6 +48,7 @@ java -version     # should print something like: openjdk version "21.x.x"
 
 ## Helpful references
 - [`SPEC.md`](SPEC.md) — the full curriculum design (and the panel review that shaped it).
+- [`learningmethod.md`](learningmethod.md) — the method behind this repo and how to unfold it to higher levels of Java.
 - [`docs/glossary.md`](docs/glossary.md) — every new word, explained plainly.
 - [`docs/reading-real-code.md`](docs/reading-real-code.md) — how to read real FTC OpModes without a robot.
 - [`docs/getting-started.md`](docs/getting-started.md) — macOS setup + how to run programs.
