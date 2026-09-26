@@ -4,6 +4,8 @@ Learn Java from zero, in small runnable programs, aimed at programming an **FTC 
 
 By the end you'll be able to **write** Java, **read** the complex-looking code in a real FTC OpMode, and **debug** when things go wrong.
 
+> 👉 **New here? Start with [`instructionsToUseRepo.md`](instructionsToUseRepo.md)** — the visual guide to how to learn, practice, and level up with this repo.
+
 ## How this repo works
 
 You move through **11 phases**, simple → medium-hard. Each phase folder has the same layout:
